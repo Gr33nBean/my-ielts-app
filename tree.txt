@@ -1,0 +1,36 @@
+﻿|-- [DIR] public
+    |-- [DIR] scripts
+        |-- [FILE] tree.ps1
+    |-- [FILE] vite.svg
+|-- [DIR] src
+    |-- [DIR] assets
+        |-- [FILE] react.svg
+    |-- [DIR] components
+        |-- [FILE] HomeTab.jsx
+        |-- [FILE] IPAKeyboard.jsx
+        |-- [FILE] LoginView.jsx
+        |-- [FILE] Modal.jsx
+        |-- [FILE] VocabCard.jsx
+        |-- [FILE] VocabDetail.jsx
+        |-- [FILE] VocabForm.jsx
+    |-- [DIR] context
+        |-- [FILE] AuthContext.jsx
+    |-- [DIR] hooks
+        |-- [FILE] useAuth.js
+        |-- [FILE] useStats.js
+        |-- [FILE] useVocab.js
+    |-- [DIR] utils
+        |-- [FILE] formatters.js
+    |-- [FILE] App.css
+    |-- [FILE] App.jsx
+    |-- [FILE] index.css
+    |-- [FILE] main.jsx
+|-- [FILE] .gitattributes
+|-- [FILE] .gitignore
+|-- [FILE] eslint.config.js
+|-- [FILE] index.html
+|-- [FILE] package.json
+|-- [FILE] README.md
+|-- [FILE] tree.txt
+|-- [FILE] vite.config.js
+|-- [FILE] yarn.lock
